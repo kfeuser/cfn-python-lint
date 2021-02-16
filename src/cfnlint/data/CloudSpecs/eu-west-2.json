@@ -80878,7 +80878,9 @@
         "dax.r5.large",
         "dax.r5.xlarge",
         "dax.t2.medium",
-        "dax.t2.small"
+        "dax.t2.small",
+        "dax.t3.medium",
+        "dax.t3.small"
       ],
       "Ref": {
         "Parameters": [
@@ -81293,6 +81295,7 @@
         "g4dn.8xlarge",
         "g4dn.metal",
         "g4dn.xlarge",
+        "i2.large",
         "i3.16xlarge",
         "i3.2xlarge",
         "i3.4xlarge",
